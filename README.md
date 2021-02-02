@@ -1,3 +1,1 @@
-"# TypeScript" 
-"# TypeScript" 
-"# TypeScript" 
+Files for labs are in separate branches
