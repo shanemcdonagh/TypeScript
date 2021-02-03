@@ -1,4 +1,4 @@
-// Function 1
+// Function 1 - name/type
 function stringCount (x: string): number // << return type
 {
     return x.length;
@@ -7,7 +7,7 @@ function stringCount (x: string): number // << return type
 // Test (Function 1)
 console.log(stringCount("Test 1"));
 
-// Function 2
+// Function 2 
 function stringCountNoSpaces(x:string): number
 {
     let num: number = x.replace(/\s+/,"").length;
