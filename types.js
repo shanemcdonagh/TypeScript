@@ -1,6 +1,5 @@
 // Number
 var num1 = 5;
-var num2 = 7;
 console.log(num1);
 // Boolean
 var isTrue = true;
